@@ -1,0 +1,11 @@
+{
+  "name": "mailjet/customsmtp",
+  "type": "magento-module",
+  "description": "Mailjet's SMTP relay for advanced Deliverability and Statistics",
+  "authors": [
+    {
+      "name": "Yasen Petrov",
+      "email": "ypetrov@mailjet.com"
+    }
+  ]
+}
