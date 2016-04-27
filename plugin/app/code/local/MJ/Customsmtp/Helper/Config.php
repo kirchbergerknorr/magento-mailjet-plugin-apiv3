@@ -1,8 +1,10 @@
 <?php
+
 /**
  * Mailjet
  */
-class MJ_Customsmtp_Helper_Config extends Mage_Core_Helper_Abstract{
+class MJ_Customsmtp_Helper_Config extends Mage_Core_Helper_Abstract
+{
 
     const XML_PATH_ENABLED = 'customsmtp/general/enabled';
     const XML_PATH_TEST = 'customsmtp/general/test';

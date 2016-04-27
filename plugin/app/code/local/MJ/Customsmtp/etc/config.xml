@@ -137,14 +137,14 @@
             <general>
                 <enabled>0</enabled>
                 <test>0</test>
-                <test_address />
+                <test_address/>
             </general>
             <smtp>
                 <host>in-v3.mailjet.com</host>
                 <port>587</port>
-                <login />
-                <password />
-                <ssl />
+                <login/>
+                <password/>
+                <ssl/>
             </smtp>
         </customsmtp>
     </default>
